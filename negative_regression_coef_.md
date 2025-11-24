@@ -137,3 +137,5 @@ This is known as **sign reversal due to severe multicollinearity** (or the suppr
 1. High R² + unexpected coefficient signs → almost always severe multicollinearity
 2. In severe multicollinearity, coefficients lose causal interpretability
 3. The plot above is one of the clearest diagnostic and teaching tools for this phenomenon
+---
+[![Main Repo](https://img.shields.io/badge/Main_Repo-000000?style=flat&logo=github&logoColor=white)](README.md)
